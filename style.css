@@ -4,3 +4,14 @@ body{
     background-size: cover;
     background-attachment: fixed;
 }
+h1{
+    text-align: center;
+    color: ivory;
+}
+.resort{
+    color:lightgray;
+    text-align: left;
+    vertical-align: middle;
+    
+    
+}
