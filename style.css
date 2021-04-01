@@ -27,6 +27,7 @@ h1{
     background-color: purple;
     opacity: 60%;
     color:whitesmoke;
+    font-size: large;
 
 }
 h4{
@@ -46,7 +47,9 @@ h4{
 h5{
     text-align: center;
     color: yellowgreen;
+    font-size: larger;
 }
 li{
     color: ivory;
+    font-size: large;
 }
