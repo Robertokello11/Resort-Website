@@ -19,8 +19,7 @@ h1{
 }
 .home a {
     color: lawngreen;
-    justify-content: center;
-    text-align: center;
+    display: inline-grid;
 }
 .resort p{
     width: 50%;
@@ -52,4 +51,16 @@ h5{
 li{
     color: ivory;
     font-size: large;
+}h3{
+    color: violet;
+    font-size: larger;
+
+}
+.cir{
+    color: ivory;
+    font-size: large;
+}
+.reso{
+    height: 40%;
+    width: 35%;
 }
