@@ -9,9 +9,15 @@ h1{
     color: ivory;
 }
 .resort{
-    color:lightgray;
+    color:rgb(238, 227, 227);
     text-align: left;
-    vertical-align: middle;
-    
-    
+    vertical-align: middle; 
+    display: flex; 
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.home a {
+    color: lawngreen;
+    justify-content: center;
 }
