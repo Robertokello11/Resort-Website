@@ -20,4 +20,5 @@ h1{
 .home a {
     color: lawngreen;
     justify-content: center;
+    text-align: center;
 }
