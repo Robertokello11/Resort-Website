@@ -35,13 +35,18 @@ h4{
 
 }
 #pro{
-    text-align: left;
+    text-align: center;
     flex-direction: row;
-    color: tomato;
-    background-color:pink;
+    
     opacity: 60%;
+    width: 50%;
+    justify-content: center;
+    display: inline;
 }
 h5{
     text-align: center;
-    color: darkgreen;
+    color: yellowgreen;
+}
+li{
+    color: ivory;
 }
