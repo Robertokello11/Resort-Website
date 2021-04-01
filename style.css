@@ -1,70 +1,84 @@
-body{
-    background-image:url(./images/images.jpeg);
+body {
+    background-image: url(./images/images.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
-h1{
+
+h1 {
     text-align: center;
     color: ivory;
 }
-.resort{
-    color:rgb(238, 227, 227);
+
+.resort {
+    color: rgb(238, 227, 227);
     text-align: left;
-    vertical-align: middle; 
-    display: flex; 
+    vertical-align: middle;
+    display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
 }
+
 .home a {
     color: lawngreen;
     display: inline-grid;
 }
-.resort p{
+
+.resort p {
     width: 50%;
     background-color: purple;
     opacity: 60%;
-    color:whitesmoke;
+    color: whitesmoke;
     font-size: large;
 
 }
-h4{
-    justify-content:right;
-    text-align: right;
+
+h4 {
+    color:lavender;
+    
+
 
 }
-#pro{
+
+#pro {
     text-align: center;
     flex-direction: row;
-    
+
     opacity: 60%;
     width: 50%;
     justify-content: center;
     display: inline;
 }
-h5{
+
+h5 {
     text-align: center;
     color: yellowgreen;
     font-size: larger;
 }
-li{
+
+li {
     color: ivory;
     font-size: large;
-}h3{
+}
+
+h3 {
     color: violet;
     font-size: larger;
 
 }
-.cir{
+
+.cir {
     color: ivory;
     font-size: large;
 }
-.reso{
+
+.reso {
     height: 40%;
     width: 35%;
-} 
-.park{
-    width: 35%;
-    height: 40%;
+}
+
+.park {
+    width: 100%;
+    height: 100%;
 }
