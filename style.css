@@ -22,3 +22,26 @@ h1{
     justify-content: center;
     text-align: center;
 }
+.resort p{
+    width: 50%;
+    background-color: purple;
+    opacity: 60%;
+    color:whitesmoke;
+
+}
+h4{
+    justify-content:right;
+    text-align: right;
+
+}
+#pro{
+    text-align: left;
+    flex-direction: row;
+    color: tomato;
+    background-color:pink;
+    opacity: 60%;
+}
+h5{
+    text-align: center;
+    color: darkgreen;
+}
