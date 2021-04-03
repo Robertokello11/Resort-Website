@@ -12,7 +12,7 @@ You can install it with the following command in your terminal `$ sudo apt insta
 ## Setup
 * To access this project on your local,you can clone it using these steps;
 1. open your terminal
-2. use this command to Clone the repo {git clone https://github.com/Robertokello11/pet-website.git}
+2. use this command to Clone the repo git clone https://github.com/Robertokello11/pet-website.git
 3. This will clone the repository into your local folder
 .."Enjoy"..
 ## Known Bugs
